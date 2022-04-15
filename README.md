@@ -6,7 +6,7 @@ O presente estudo teve como objetivo captar a percepção dos usuários de redes
 
 **Este repositório guarda os scripts desenvolvidos para as três etapas este estudo, coleta, transformação e modelagem dos dados.**
 
-1 - twiter_coleta -> script desenvolvido em Python para a coleta e armazenamento de dados da API do Twiter
+1 - twitter_coleta -> script desenvolvido em Python para a coleta e armazenamento de dados da API do Twiter
 
 2 - limpeza_processamento -> script desenvolvido para a limpeza, tokenização, lemantização e separação dos spams com um modelo supervisionado Naive Bayes, este script separou os spams das opiniões para tornar o dataset mais adequado para as etapas seguintes
 
