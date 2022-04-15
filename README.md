@@ -10,7 +10,7 @@ O presente estudo teve como objetivo captar a percepção dos usuários de redes
 
 2 - limpeza_processamento -> script desenvolvido para a limpeza, tokenização, lemantização e separação dos spams com um modelo supervisionado Naive Bayes, este script separou os spams das opiniões para tornar o dataset mais adequado para as etapas seguintes
 
-3 - aplicacao_vader  -> Neste notebook está a aplicação do SentimentItensifierAnaliser() para a analise de sentimentos e classificação dos tweets como positivos, negativos ou neutros, há também a exproração visual em gráficos e Word Clouds.
+3 - aplicacao_vader  -> Neste notebook está a aplicação do SentimentItensifierAnaliser() para a analise de sentimentos e classificação dos tweets como positivos, negativos ou neutros, há também a avaliação do modelo e a exploração visual em gráficos e Word Clouds.
 
 O estudo completo com os resultados e análises pode ser econtrado no link abaixo:
 
